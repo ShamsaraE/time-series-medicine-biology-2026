@@ -28,7 +28,7 @@ Topics include:
 - `notebooks/` – Teaching notebooks
 - `src/` – Reusable Python modules
 - `data/` – Example datasets
-- `assignments/` – Exercises and project descriptions
+- `Projects/` – Exercises and project descriptions
 
 ---
 
